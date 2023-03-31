@@ -1,3 +1,4 @@
 #!/bin/bash
 
 echo 'practice really makes perfect'
+echo "you"
